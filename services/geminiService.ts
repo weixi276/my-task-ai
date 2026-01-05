@@ -1,1 +1,1 @@
-services/geminiService.ts
+process.env.API_KEY
